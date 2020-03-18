@@ -15,6 +15,10 @@ div.rightcolumn{
   
 }
 
+ul {
+  margin-left: 45%;
+  margin-right: 50%;
+}
 div.centercolumn{
   border: 5px solid darkblue;
   padding: 5px;
