@@ -1,0 +1,29 @@
+.flashy {
+  color: red;
+  font: italic;
+}
+
+.best {
+  color: gold;
+  background-color: silver;
+}
+
+img {
+  height: 10%;
+  width: 10%;
+}
+a {
+  height: 4%;
+  font-weight: 35;
+  font-size: larger;
+}
+
+p {
+  font-weight: 600;
+  color: aqua;
+}
+
+
+
+
+ 
