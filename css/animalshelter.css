@@ -1,0 +1,16 @@
+.catcheye {
+  color: red;
+  font-weight: 900;
+  font-size: large;
+  background-color: blue;
+}
+
+div.imagestyling{
+  float: left;
+  background-color: blue;
+}
+
+h3 {
+  font-weight: 900;
+
+}
