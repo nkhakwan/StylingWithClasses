@@ -1,0 +1,19 @@
+.important {
+  background-color: skyblue;
+  width: 100px;
+  color: red;
+  font-size: x-large;
+}
+
+p.intro {
+  width: 50%;
+  font: italic;
+  background-color: Salmon;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  background-color: lightgrey;
+}
