@@ -16,9 +16,10 @@ div.rightcolumn{
 }
 
 div.centercolumn{
-  border: 2px;
+  border: 250px;
   padding: 5px;
   margin: 250px;
   background-color: salmon;
   float: center;
+  text-align: center;
 }
