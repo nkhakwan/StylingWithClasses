@@ -1,0 +1,48 @@
+.doctor img{
+  background-color: skyblue;
+}
+.engineer img{
+  background-color: salmon;
+}
+
+.doctor ol {
+  float: center;
+  text-align: center;
+  margin-right: 50%;
+  margin-left: 45%;
+ }
+ .engineer ol {
+   float: right;
+   text-align: center; 
+   margin-right: 50%;
+   margin-left: 45%;
+ }
+
+div.rightcolumn{
+  float: right;
+  
+}
+
+ul{
+  text-align: center;
+  margin-right: 50%;
+  margin-left: 45%;
+}
+
+div.doctor{
+  border: 5px solid darkblue;
+  padding: 5px;
+  margin: 50px;
+  background-color: lightgray;
+  float: center;
+  text-align: center;
+}
+
+div.enginer{
+  border: 5px solid darkblue;
+  padding: 5px;
+  margin: 50px;
+  background-color: lightgray;
+  float: center;
+  text-align: center;
+}
