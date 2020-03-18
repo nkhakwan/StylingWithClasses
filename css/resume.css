@@ -1,36 +1,37 @@
 .doctor img{
   background-color: skyblue;
+  height: 10%;
+  width: 10%;
 }
 .engineer img{
   background-color: salmon;
+  height: 20%;
+  width: 20%;
 }
 
 .doctor ol {
-  text-align: center;
-  margin-right: 50%;
-  margin-left: 45%;
+  text-align: left ;
   background-color: salmon;
  }
  .engineer ol {
-   text-align: center; 
-   margin-right: 50%;
-   margin-left: 45%;
+   
+   text-align: right;
    background-color: lightblue;
  }
 
 div.doctor{
   border: 5px solid darkblue;
   padding: 5px;
-  margin: 50px;
+  margin: 250px;
   background-color: lightgray;
   float: center;
   text-align: center;
 }
 
-div.enginer{
+div.engineer{
   border: 5px solid green;
   padding: 5px;
-  margin: 50px;
+  margin: 250px;
   background-color: lightgray;
   float: center;
   text-align: center;
