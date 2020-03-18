@@ -5,16 +5,22 @@
   background-color: blue;
 }
 
-div.imagestyling{
+div.leftcolumn{
   float: left;
-  background-color: blue;
+ 
 }
 
-h3 {
-  font-weight: 900;
-
-}
-
-.sidebar {
+div.rightcolumn{
   float: right;
+  
+}
+
+div.centercolumn{
+  float: center;
+  border: 2px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  background-color: salmon;
+  text-align: center;
 }
