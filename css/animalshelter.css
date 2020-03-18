@@ -15,9 +15,12 @@ div.rightcolumn{
   
 }
 
-
-
+ul{
+  text-align: center;
+  margin-right: 50%;
+  margin-left: 45%;
 }
+
 div.centercolumn{
   border: 5px solid darkblue;
   padding: 5px;
