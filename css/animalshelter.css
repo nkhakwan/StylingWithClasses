@@ -16,8 +16,7 @@ div.rightcolumn{
 }
 
 ul {
-  margin-left: 45%;
-  margin-right: 50%;
+  text-align: center;
 }
 div.centercolumn{
   border: 5px solid darkblue;
