@@ -6,28 +6,17 @@
 }
 
 .doctor ol {
-  float: center;
   text-align: center;
   margin-right: 50%;
   margin-left: 45%;
+  background-color: salmon;
  }
  .engineer ol {
-   float: right;
    text-align: center; 
    margin-right: 50%;
    margin-left: 45%;
+   background-color: lightblue;
  }
-
-div.rightcolumn{
-  float: right;
-  
-}
-
-ul{
-  text-align: center;
-  margin-right: 50%;
-  margin-left: 45%;
-}
 
 div.doctor{
   border: 5px solid darkblue;
@@ -39,7 +28,7 @@ div.doctor{
 }
 
 div.enginer{
-  border: 5px solid darkblue;
+  border: 5px solid green;
   padding: 5px;
   margin: 50px;
   background-color: lightgray;
